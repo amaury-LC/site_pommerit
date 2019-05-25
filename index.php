@@ -15,7 +15,7 @@
 
 <div id ="principal">
 
-	<h2 id="actu">Actualitée</h2>
+	<h2 id="actu">Actualitées</h2>
 
 
 	<div class="container" style="padding: 0px">
@@ -24,15 +24,29 @@
 
 			<div class="col-sm-4" >
 
-				<div class="card_principal" style="border-radius: 5px;">
+				<div class="card_principal">
+
+					<div class="div1">
+						
+
+					</div>
+
+					
+
+					
 
 					<div class="card1 photo1">
 
 
+
+
 					</div>
+
 					<div class="card2">
 
-						<div>
+
+
+                       <div class="card3">
 
 						<div class="titre_actu" >
 
@@ -41,47 +55,119 @@
 							<span class="titre_span" style="width: 100%">Démarche</span>
 
 							<div style="height: 5px;width: 80%; border-bottom: 1px solid #F0F0F0;display: inline;margin-top: 12px;"></div>
-							
+
 
 						</div>
 						<p class="text_actu">Élections européennes, ce qu'il faut savoir</p>
 
-					</div>
-						
-
+                      </div>
 
 					</div>
 
-				</div>
-
-
-				
-			</div>
-			<div class="col-sm-4">
-
-
-				<div style="border-radius: 5px;">
-
-					<div class="card1">
-
-
-					</div>
 					
 
 				</div>
 
+
 				
 			</div>
 			<div class="col-sm-4">
 
-				<div style="border-radius: 5px;">
 
-					<div class="card1">
+				<div class="card_principal">
+
+					<div class="div1">
+						
+
+					</div>
+
+					
+
+					
+
+					<div class="card1 photo2">
+
+
 
 
 					</div>
 
+					<div class="card2">
+
+
+
+                       <div class="card3">
+
+						<div class="titre_actu" >
+
+							<div style="height: 5px;width: 80%; border-bottom: 1px solid #F0F0F0;display: inline;margin-top: 12px;"></div>
+
+							<span class="titre_span" style="width: 100%">Démarche</span>
+
+							<div style="height: 5px;width: 80%; border-bottom: 1px solid #F0F0F0;display: inline;margin-top: 12px;"></div>
+
+
+						</div>
+						<p class="text_actu">Élections européennes, ce qu'il faut savoir</p>
+
+                      </div>
+
+					</div>
+
+					
+
 				</div>
+
+
+
+				
+			</div>
+			<div class="col-sm-4">
+
+				<div class="card_principal">
+
+					<div class="div1">
+						
+
+					</div>
+
+					
+
+					
+
+					<div class="card1 photo3">
+
+
+
+
+					</div>
+
+					<div class="card2">
+
+
+
+                       <div class="card3">
+
+						<div class="titre_actu" >
+
+							<div style="height: 5px;width: 80%; border-bottom: 1px solid #F0F0F0;display: inline;margin-top: 12px;"></div>
+
+							<span class="titre_span" style="width: 100%">Démarche</span>
+
+							<div style="height: 5px;width: 80%; border-bottom: 1px solid #F0F0F0;display: inline;margin-top: 12px;"></div>
+
+
+						</div>
+						<p class="text_actu">Élections européennes, ce qu'il faut savoir</p>
+
+                      </div>
+
+					</div>
+
+					
+
+				</div>
+
 
 				
 				
@@ -106,6 +192,21 @@
 	
 
 
+
+
+</div>
+
+<div id="principal2">
+	
+
+
+
+
+
+
+</div>
+<div style="width: 100px;height: 100px;>
+	
 
 
 </div>
