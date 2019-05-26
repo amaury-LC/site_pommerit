@@ -20,9 +20,9 @@
 
 	<div class="container" style="padding: 0px">
 
-		<div class="row" style="margin: 0px;padding: 0px" >
+		<div class="row" style="margin: 0px;padding: 0px;margin-bottom: 50px" >
 
-			<div class="col-lg-4 col-sm-1" >
+			<div class="col-lg-4 col-sm-12" style="width: 100%;height: 300px;">
 
 				<div class="card_principal">
 
@@ -71,7 +71,7 @@
 
 				
 			</div>
-			<div class="col-lg-4 col-sm-1">
+			<div class="col-lg-4 col-sm-12" style="width: 100%;height: 300px">
 
 
 				<div class="card_principal">
@@ -122,7 +122,7 @@
 
 				
 			</div>
-			<div class="col-lg-4 col-sm-1">
+			<div class="col-lg-4 col-sm-12" style="width: 100%;height: 100px;height: 300px;">
 
 				<div class="card_principal">
 
@@ -186,9 +186,9 @@
 
 
 
-		<div class="row" style="margin: 0px;padding: 0px;position: relative;width: 100%;top: 350px" >
+		<div class="row" style="margin: 0px;padding: 0px;width: 100%;margin-bottom: 50px" >
 
-			<div class="col-lg-4 col-sm-1" >
+			<div class="col-lg-4 col-sm-12" style="width: 100%;height: 300px" >
 
 				<div class="card_principal">
 
@@ -237,7 +237,7 @@
 
 				
 			</div>
-			<div class="col-lg-4 col-sm-1">
+			<div class="col-lg-4 col-sm-12" style="width: 100%;height: 300px" >
 
 
 				<div class="card_principal">
@@ -288,7 +288,7 @@
 
 				
 			</div>
-			<div class="col-lg-4 col-sm-1">
+			<div class="col-lg-4 col-sm-12" style="width: 100%;height: 300px">
 
 				<div class="card_principal">
 
@@ -383,11 +383,11 @@
 
 		<div class="row" style="margin: 0px;padding: 0px" >
 
-			<div class="col-sm-4" >
+			<div class="col-lg-4 col-sm-12" style="width: 100%;height: 150px;" >
 
 
 
-				<div class="r1" style="display: flex;width: 100%;height: 100px;border-radius: 5px">
+				<div class="r1" style="display: flex;width: 100%;height: 100px;border-radius: 5px;justify-content: center;">
 
 					<div class="transition1"></div>
 					<div class="icon1"></div>
@@ -402,11 +402,11 @@
 
 			</div>
 
-			<div class="col-sm-4" >
+			<div class="col-lg-4 col-sm-12" style="width: 100%;height: 150px;" >
 
 
 
-				<div class="r2" style="display: flex">
+				<div class="r2" style="display: flex;justify-content: center;">
 
 					<div class="transition2"></div>
 					<div class="icon2"></div>
@@ -421,11 +421,11 @@
 
 			</div>
 
-			<div class="col-sm-4" >
+			<div class="col-lg-4 col-sm-12" style="width: 100%;height: 150px;" >
 
 
 
-				<div class="r3" style="display: flex">
+				<div class="r3" style="display: flex;justify-content: center;">
 
 					<div class="transition3"></div>
 					<div class="icon3"></div>
@@ -443,11 +443,11 @@
 
 		<div class="row" style="margin: 0px;padding: 0px;margin-top: 100px " >
 
-			<div class="col-sm-4" >
+			<div class="col-lg-4 col-sm-12" style="width: 100%;height: 150px;" >
 
 
 
-				<div class="r4" style="display: flex">
+				<div class="r4" style="display: flex;justify-content: center;">
 
 					<div class="transition4"></div>
 					<div class="icon4"></div>
@@ -462,11 +462,11 @@
 
 			</div>
 
-			<div class="col-sm-4" >
+			<div class="col-lg-4 col-sm-12" style="width: 100%;height: 150px;" >
 
 
 
-				<div class="r5" style="display: flex">
+				<div class="r5" style="display: flex;justify-content: center;">
 
 					<div class="transition5"></div>
 					<div class="icon5"></div>
@@ -481,11 +481,11 @@
 
 			</div>
 
-			<div class="col-sm-4" >
+			<div class="col-lg-4 col-sm-12" style="width: 100%;height: 150px;" >
 
 
 
-				<div class="r6" style="display: flex">
+				<div class="r6" style="display: flex;justify-content: center;">
 
 					<div class="transition6"></div>
 					<div class="icon6"></div>
@@ -503,11 +503,11 @@
 
 		<div class="row" style="margin: 0px;padding: 0px;margin-top: 100px " >
 
-			<div class="col-sm-4" >
+			<div class="col-lg-4 col-sm-12" style="width: 100%;height: 150px;" >
 
 
 
-				<div class="r7" style="display: flex">
+				<div class="r7" style="display: flex;justify-content: center;">
 
 					<div class="transition7"></div>
 					<div class="icon7"></div>
@@ -522,11 +522,11 @@
 
 			</div>
 
-			<div class="col-sm-4" >
+			<div class="col-lg-4 col-sm-12" style="width: 100%;height: 150px;" >
 
 
 
-				<div class="r8" style="display: flex">
+				<div class="r8" style="display: flex;justify-content: center;">
 
 					<div class="transition8"></div>
 					<div class="icon8"></div>
@@ -541,11 +541,11 @@
 
 			</div>
 
-			<div class="col-sm-4" >
+			<div class="col-lg-4 col-sm-12" style="width: 100%;height: 150px;" >
 
 
 
-				<div class="r9" style="display: flex">
+				<div class="r9" style="display: flex;justify-content: center;">
 
 					<div class="transition9"></div>
 					<div class="icon9"></div>

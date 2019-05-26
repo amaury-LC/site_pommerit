@@ -93,7 +93,7 @@ li{
 #principal{
 
 	width: 100%;
-	height:800px;
+	
 	/*background: #FFF8DE fixed;*/
 	background: white fixed;
 
@@ -566,6 +566,7 @@ li{
 
 
 
+
 }
 .r2:hover .transition2{
 
@@ -767,3 +768,222 @@ li{
 }
 
 
+@media screen and (max-width: 800px) {
+
+
+	ul{
+
+		display: none;
+
+
+	}
+
+	.transition1{
+
+	width: 0%;
+	height: 100px;
+	background: #DC3545;
+	position: absolute;
+	left: 18%;
+	top : -5px;
+	border-radius: 5px;
+
+}
+
+.r1:hover .transition1{
+
+	width: 70%;
+	transition: width 0.2s ease;
+
+
+
+
+
+
+
+}
+
+.transition2{
+
+	width: 0%;
+	height: 100px;
+	background: #3ECD2E;
+	position: absolute;
+	left: 18%;
+	top : -5px;
+	border-radius: 5px
+}
+
+.transition3{
+
+	width: 0%;
+	height: 100px;
+	background: #3ECD2E;
+	position: absolute;
+	left: 18%;
+	top : -5px;
+	border-radius: 5px
+}
+
+.transition4{
+
+	width: 0%;
+	height: 100px;
+	background: #FFCD00;
+	position: absolute;
+	left: 18%;
+	top : -5px;
+	border-radius: 5px
+}
+
+.transition5{
+
+	width: 0%;
+	height: 100px;
+	background: #DC3545;
+	position: absolute;
+	left: 18%;
+	top : -5px;
+	border-radius: 5px
+}
+.transition6{
+
+	width: 0%;
+	height: 100px;
+	background: #31EEF3;
+	position: absolute;
+	left: 18%;
+	top : -5px;
+	border-radius: 5px
+}
+.transition7{
+
+	width: 0%;
+	height: 100px;
+	background: #31EEF3;
+	position: absolute;
+	left: 18%;
+	top : -5px;
+	border-radius: 5px
+}
+
+.transition8{
+
+	width: 0%;
+	height: 100px;
+	background: #FFCD00;
+	position: absolute;
+	left: 18%;
+	top : -5px;
+	border-radius: 5px
+}
+.transition9{
+
+	width: 0%;
+	height: 100px;
+	background: #31EEF3;
+	position: absolute;
+	left: 18%;
+	top : -5px;
+	border-radius: 5px
+}
+
+.r2:hover .transition2{
+
+	width: 70%;
+	transition: width 0.2s ease;
+
+
+
+
+
+
+}
+.r3:hover .transition3{
+
+	width: 70%;
+	transition: width 0.2s ease;
+
+
+
+
+
+
+}
+.r4:hover .transition4{
+
+	width: 70%;
+	transition: width 0.2s ease;
+
+
+
+
+
+
+}
+.r5:hover .transition5{
+
+	width: 70%;
+	transition: width 0.2s ease;
+
+
+
+
+
+
+}
+.r6:hover .transition6{
+
+	width: 70%;
+	transition: width 0.2s ease;
+
+
+
+
+
+
+}
+.r7:hover .transition7{
+
+	width: 70%;
+	transition: width 0.2s ease;
+
+
+
+
+
+
+}
+.r8:hover .transition8{
+
+	width: 70%;
+	transition: width 0.2s ease;
+
+
+
+
+
+
+}
+.r9:hover .transition9{
+
+	width: 70%;
+	transition: width 0.2s ease;
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+  
+} /*fin */
